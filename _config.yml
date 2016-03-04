@@ -1,0 +1,28 @@
+name: 'Valley Entrepreneur '
+favicon: null
+layout_spectrum: 0.5597450393252075
+typography_spectrum: 0.36027940083295107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4660635332111269
+  lightness: 0.21738258469849825
+  saturation: 0.2545503620058298
+  rhythmicContrast: 0.40011645946651697
+purpose: []

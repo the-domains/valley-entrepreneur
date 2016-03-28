@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T22:39:07.800Z'
-dateModified: '2016-03-04T22:38:28.107Z'
+datePublished: '2016-03-28T18:37:15.969Z'
+dateModified: '2016-03-28T18:37:14.169Z'
 title: The 5 Essential Skills of Entrepreneurs
 author: []
+sourcePath: _posts/2016-03-04-the-5-essential-skills-of-entrepreneurs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-the-5-essential-skills-of-entrepreneurs.md
-published: true
 url: the-5-essential-skills-of-entrepreneurs/index.html
 _type: Article
 
@@ -37,5 +37,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbfb1a0e-ac51-407f-b139-a79c85db1b77.jpg)
 
 ## \#5 Leadership ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/029a83f0-f0db-4a2f-a4ec-bb37495b64cd.jpg)
-
-##
